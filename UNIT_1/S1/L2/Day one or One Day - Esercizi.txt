@@ -11,8 +11,8 @@ gateway2:    =>        10000000.0000 1111.11111111.11111110      128.15.255.254
 numero massimo host o sottoreti: 1048574
 2^(32 - cidr) - 2 = 
 
-network: ottetti
-host: ottetti
+network:1 ottetti
+host: 20 ottetti
 
 =====================================================================
 ip:   200.1.2.3/24
